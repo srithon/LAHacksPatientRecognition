@@ -17,4 +17,8 @@ Utilizing this and the Test Patient Data provided, perform the following:
 4. Once you have created an application that mirrors the SQL POC, you can hook up the database to your application, and verify your accuracy is the same as the SQL POC.
 5. Finally, what else can you do to improve the accuracy of the Patient Matching in your application?  Think of other algorithms and theorems you can utilize the data to perform comparisons.
     - The proof of concept utilizes hash tokens and Soundex tokens.  Are there any other ways to improve matching accuracy?
+
 # source for state abreviations: https://gist.github.com/mshafrir/2646763#file-states_hash-json
+
+## OUR DEMO
+https://youtu.be/j9hqa7Wn_7E
