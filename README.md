@@ -1,5 +1,8 @@
 # Patient Matching Challenge
 
+# YOUTUBE DEMO
+https://youtu.be/j9hqa7Wn_7E
+
 Office Ally is currently working on an algorithm which could match Patient data from various sources to identify whether it is the same patient.  We would like hackers to come up with creative ways to tackle this challenge, and achieve as close to 100% accuracy as possible.  We have provided a sample list of patients for hackers to check their accuracy against.  
 
 To be considered eligible for the prize, your solution must achieve at least 90% accuracy (which our sample SQL code does).  Hardcoding will not be eligible.
@@ -19,6 +22,3 @@ Utilizing this and the Test Patient Data provided, perform the following:
     - The proof of concept utilizes hash tokens and Soundex tokens.  Are there any other ways to improve matching accuracy?
 
 # source for state abreviations: https://gist.github.com/mshafrir/2646763#file-states_hash-json
-
-## OUR DEMO
-https://youtu.be/j9hqa7Wn_7E
